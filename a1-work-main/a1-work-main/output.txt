@@ -1,1 +1,16 @@
-# Simply copy and paste the output from your terminal here!
+munsh@DESKTOP-S0F1OLG:~/cs3650/cs3650-assignment1/a1-work-main$ touch output.txt
+munsh@DESKTOP-S0F1OLG:~/cs3650/cs3650-assignment1/a1-work-main$ ls
+a1-work-main  output.txt
+munsh@DESKTOP-S0F1OLG:~/cs3650/cs3650-assignment1/a1-work-main$ whoami
+munsh
+munsh@DESKTOP-S0F1OLG:~/cs3650/cs3650-assignment1/a1-work-main$ mkdir empty_directory
+munsh@DESKTOP-S0F1OLG:~/cs3650/cs3650-assignment1/a1-work-main$ rmdir empty_directory/
+munsh@DESKTOP-S0F1OLG:~/cs3650/cs3650-assignment1/a1-work-main$ echo " nano output.txt" >> output.txt
+munsh@DESKTOP-S0F1OLG:~/cs3650/cs3650-assignment1/a1-work-main$ cp output.txt output_copy.txt
+munsh@DESKTOP-S0F1OLG:~/cs3650/cs3650-assignment1/a1-work-main$ ps
+    PID TTY          TIME CMD
+    276 pts/0    00:00:00 bash
+   1274 pts/0    00:00:00 ps
+munsh@DESKTOP-S0F1OLG:~/cs3650/cs3650-assignment1/a1-work-main$ pwd
+/home/munsh/cs3650/cs3650-assignment1/a1-work-main
+munsh@DESKTOP-S0F1OLG:~/cs3650/cs3650-assignment1/a1-work-main$ cd ..
